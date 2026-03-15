@@ -8,7 +8,9 @@ This repository is dedicated to providing daily quiz questions focused on variou
 
 ## 📚 About
 
-This repository is part of the GATE And Tech initiative to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Engineering Mathematics is a crucial subject for engineering students, and this repository provides daily practice questions to master it.
+This repository is part of the [GATE And Tech initiative](https://gateandtech.in/) to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Engineering Mathematics is a crucial subject for engineering students, and this repository provides daily practice questions to master it.
+
+**Topics:** Calculus, Linear Algebra, Differential Equations, Probability, Statistics, Complex Analysis
 
 ## 🎯 Resources
 
